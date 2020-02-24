@@ -1,2 +1,2 @@
-
-Code for print singly LinkedList Element in Reverse Order by using Stack data Strucutre.
+#Task
+Printing Element of Singly LinkedList in reverse Order using Stack.
